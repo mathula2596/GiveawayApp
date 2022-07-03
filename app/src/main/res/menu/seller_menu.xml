@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/main_menu"
+            android:title="Main Menu">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/home"
+                        android:icon="@drawable/ic_baseline_home_24"
+                        android:title="Home" />
+                    <item
+                        android:id="@+id/new_product"
+                        android:icon="@drawable/ic_baseline_add_24"
+                        android:title="New Product" />
+
+                    <item
+                        android:id="@+id/list_product"
+                        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+                        android:title="List Products" />
+
+                    <item
+                        android:id="@+id/sales_list"
+                        android:icon="@drawable/ic_baseline_checklist_24"
+                        android:title="Sales List" />
+                </group>
+
+            </menu>
+
+        </item>
+
+    <item
+        android:id="@+id/profile_parent"
+        android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile_menu"
+                    android:icon="@drawable/ic_baseline_person_outline_24"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_baseline_logout_24"
+                    android:title="Logout" />
+            </group>
+
+
+        </menu>
+    </item>
+</menu>

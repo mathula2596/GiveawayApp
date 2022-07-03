@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186782546640",
+    "project_id": "givewayapp-b30d7",
+    "storage_bucket": "givewayapp-b30d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186782546640:android:6316324c68ea9dc666fcd5",
+        "android_client_info": {
+          "package_name": "com.mis.givewayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186782546640-bp97gafgke5nhe4474ct0tvk9gna9u2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvOmcuxmnRXBkHhL2nbe9watILbus0OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186782546640-bp97gafgke5nhe4474ct0tvk9gna9u2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
